@@ -2,7 +2,7 @@
 
   <div align=center>
 	
-  [![CleanDino](https://play.google.com/store/apps/developer?id=CleanDino)]
+  [Clandino](https://play.google.com/store/apps/developer?id=CleanDino, "PlayStore")
 	
   </div>
   
