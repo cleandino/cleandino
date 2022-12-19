@@ -2,7 +2,7 @@
 
   <div align=center>
 	
-  [Clandino](https://play.google.com/store/apps/developer?id=CleanDino, "PlayStore")
+  [Play Store](https://play.google.com/store/apps/developer?id=CleanDino)
 	
   </div>
   
