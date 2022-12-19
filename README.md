@@ -2,7 +2,7 @@
 
   <div align=center>
 	
-  [Play Store](https://play.google.com/store/apps/developer?id=CleanDino)
+  [Google Play](https://play.google.com/store/apps/developer?id=CleanDino)
 	
   </div>
   
