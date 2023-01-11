@@ -11,7 +11,7 @@
 
 #### January
 * My Urls Update.  
-  - [ ] Reform design
+  - [ ] Ads Refactoring
   - [ ] Android widget
   - [ ] Import, export urls
   - [ ] IOS
