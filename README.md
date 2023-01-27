@@ -14,7 +14,7 @@
   - [x] Android Release
 
 * New App
-  - [] Android Release
+  - [ ] Android Release
 
 #### February
 * My Urls
