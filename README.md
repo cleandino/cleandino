@@ -10,18 +10,18 @@
 ## 2023 Goal
 
 #### January
-* Depart 72h App
-  - [x] Release
+* Depart 72h App 
+  - [x] Android Release
 
-* My Urls Update.  
+* New App
+  - [] Android Release
+
+#### February
+* My Urls
   - [ ] Ads Refactoring
   - [ ] Android widget
   - [ ] Import, export urls
-  - [ ] IOS
-
-
-#### February
-
+  - [ ] IOS Release
 
 #### March
 
