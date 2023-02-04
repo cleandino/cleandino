@@ -13,15 +13,12 @@
 * Depart 72h App 
   - [x] Android Release
 
-* New App
-  - [ ] Android Release
+* Age Calc
+  - [X] Android Release
 
 #### February
-* My Urls
-  - [ ] Ads Refactoring
-  - [ ] Android widget
-  - [ ] Import, export urls
-  - [ ] IOS Release
+
+
 
 #### March
 
