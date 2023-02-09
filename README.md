@@ -19,7 +19,7 @@
 #### February
 * My Urls
   - [X] edit ads
-  - [] save, load urls (import, export)
+  - [ ] save, load urls (import, export)
 
 
 #### March
