@@ -19,6 +19,7 @@
 #### February
 * My Urls
   - [X] edit ads
+  - [X] edit ui design
   - [ ] save, load urls (import, export)
 
 
