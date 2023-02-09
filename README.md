@@ -17,7 +17,9 @@
   - [X] Android Release
 
 #### February
-
+* My Urls
+  - [X] edit ads
+  - [-] save, load urls (import, export)
 
 
 #### March
