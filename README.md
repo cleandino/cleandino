@@ -20,11 +20,12 @@
 * My Urls
   - [X] edit ads
   - [X] edit ui design
-  - [ ] save, load urls (import, export)
+  - [X] save, load urls (import, export)
 
 
 #### March
-
+* New game
+  - [] inital working
 #### April
 
 #### May
