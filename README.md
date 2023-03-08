@@ -25,7 +25,7 @@
 
 #### March
 * New game
-  - [] inital working
+  - [ ] inital working
 #### April
 
 #### May
